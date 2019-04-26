@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c66d65be-e726-4eaa-bb51-c973b94db5da" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1730318773">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="js" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JavaScript" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="js" value="1319" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JavaScript" value="1319" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Lab Unit Testing with Mocha" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/07. Add and Subtract/add and subtract.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="458">
+              <caret line="133" lean-forward="true" selection-start-line="12" selection-end-line="133" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/01. Sub Sum/sub sum.js" />
+        <option value="$PROJECT_DIR$/05. Check for Symmetry/check for symmetry.js" />
+        <option value="$PROJECT_DIR$/06. RGB to Hex/rgb to hex.js" />
+        <option value="$PROJECT_DIR$/07. Add and Subtract/add and subtract.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/node_modules/assertion-error/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/balanced-match/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/brace-expansion/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/browser-stdout/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/chai/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/check-error/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/commander/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/concat-map/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/deep-eql/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/diff/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/escape-string-regexp/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/fs.realpath/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/get-func-name/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/growl/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/he/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/inflight/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/mkdirp/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/mocha/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/once/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/path-is-absolute/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/pathval/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/type-detect/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/wrappy/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="683" />
+    <option name="height" value="714" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Lab Unit Testing with Mocha" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab Unit Testing with Mocha" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab Unit Testing with Mocha" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab Unit Testing with Mocha" type="462c0819:PsiDirectoryNode" />
+              <item name="04. Sub Sum" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab Unit Testing with Mocha" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab Unit Testing with Mocha" type="462c0819:PsiDirectoryNode" />
+              <item name="07. Add and Subtract" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="mouse&#9;ACTION&#9;EditorMoveUpAndScrollWithSelection" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/07. Add and Subtract" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/node_modules/mocha" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Mocha.Create calculator tests.Add.Should return -11 after add(-5.5), add(-5.5)">
+    <configuration name="sub sum.js" type="NodeJSConfigurationType" factoryName="Node.js" nameIsGenerated="true" path-to-js-file="sub sum.js" working-dir="$PROJECT_DIR$/node_modules/04. Sub Sum">
+      <method v="2" />
+    </configuration>
+    <configuration name="Create calculator tests.Add" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>SUITE</test-kind>
+      <test-file>$PROJECT_DIR$/07. Add and Subtract/add and subtract.js</test-file>
+      <test-names>
+        <name value="Create calculator tests" />
+        <name value="Add" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Create calculator tests.Add.Should return -10 after add(-5), add(-5)" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/07. Add and Subtract/add and subtract.js</test-file>
+      <test-names>
+        <name value="Create calculator tests" />
+        <name value="Add" />
+        <name value="Should return -10 after add(-5), add(-5)" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Create calculator tests.Add.Should return -11 after add(-5.5), add(-5.5)" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/07. Add and Subtract/add and subtract.js</test-file>
+      <test-names>
+        <name value="Create calculator tests" />
+        <name value="Add" />
+        <name value="Should return -11 after add(-5.5), add(-5.5)" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Create calculator tests.Add.Should return undefined after add(5), Object" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/07. Add and Subtract/add and subtract.js</test-file>
+      <test-names>
+        <name value="Create calculator tests" />
+        <name value="Add" />
+        <name value="Should return undefined after add(5), Object" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Create calculator tests.subtract.Should return NaN after add(5.5), string)" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/07. Add and Subtract/add and subtract.js</test-file>
+      <test-names>
+        <name value="Create calculator tests" />
+        <name value="subtract" />
+        <name value="Should return NaN after add(5.5), string)" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="mocha02" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory>$PROJECT_DIR$</test-directory>
+      <recursive>false</recursive>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Mocha.mocha02" />
+      <item itemvalue="Node.js.sub sum.js" />
+      <item itemvalue="Mocha.Create calculator tests.subtract.Should return NaN after add(5.5), string)" />
+      <item itemvalue="Mocha.Create calculator tests.Add.Should return undefined after add(5), Object" />
+      <item itemvalue="Mocha.Create calculator tests.Add" />
+      <item itemvalue="Mocha.Create calculator tests.Add.Should return -10 after add(-5), add(-5)" />
+      <item itemvalue="Mocha.Create calculator tests.Add.Should return -11 after add(-5.5), add(-5.5)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Mocha.Create calculator tests.Add.Should return -11 after add(-5.5), add(-5.5)" />
+        <item itemvalue="Mocha.Create calculator tests.Add.Should return -10 after add(-5), add(-5)" />
+        <item itemvalue="Mocha.Create calculator tests.Add" />
+        <item itemvalue="Mocha.Create calculator tests.Add.Should return undefined after add(5), Object" />
+        <item itemvalue="Mocha.Create calculator tests.subtract.Should return NaN after add(5.5), string)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c66d65be-e726-4eaa-bb51-c973b94db5da" name="Default Changelist" comment="" />
+      <created>1541069864737</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541069864737</updated>
+      <workItem from="1541069866455" duration="724000" />
+      <workItem from="1541074600438" duration="210000" />
+      <workItem from="1541074979451" duration="3237000" />
+      <workItem from="1541141299684" duration="7202000" />
+      <workItem from="1541153366923" duration="225000" />
+      <workItem from="1541153625626" duration="7523000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Create_calculator_tests_Add_Should_return_NaN_after_add(5),_string - 2018.11.02 at 14h 36m 31s.xml">
+      <configuration name="Create calculator tests.Add.Should return NaN after add(5), string" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Create_calculator_tests_subtract_Should_return_NaN_after_add(5_5),_string) - 2018.11.02 at 14h 37m 37s.xml">
+      <configuration name="Create calculator tests.subtract.Should return NaN after add(5.5), string)" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Create_calculator_tests_Add_Should_return_undefined_after_add(5),_Object - 2018.11.02 at 14h 40m 16s.xml">
+      <configuration name="Create calculator tests.Add.Should return undefined after add(5), Object" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Create_calculator_tests_Add_Should_return_undefined_after_add(5),_Object - 2018.11.02 at 14h 40m 33s.xml">
+      <configuration name="Create calculator tests.Add.Should return undefined after add(5), Object" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Create_calculator_tests_Add_Should_return_undefined_after_add(5),_Object - 2018.11.02 at 14h 40m 48s.xml">
+      <configuration name="Create calculator tests.Add.Should return undefined after add(5), Object" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Create_calculator_tests_Add_Should_return_undefined_after_add(5),_Object - 2018.11.02 at 14h 41m 10s.xml">
+      <configuration name="Create calculator tests.Add.Should return undefined after add(5), Object" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Create_calculator_tests_Add_Should_return_undefined_after_add(5),_Object - 2018.11.02 at 14h 41m 56s.xml">
+      <configuration name="Create calculator tests.Add.Should return undefined after add(5), Object" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Create_calculator_tests_Add - 2018.11.02 at 14h 44m 28s.xml">
+      <configuration name="Create calculator tests.Add" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Create_calculator_tests_Add_Should_return_-10_after_add(-5),_add(-5) - 2018.11.02 at 14h 44m 43s.xml">
+      <configuration name="Create calculator tests.Add.Should return -10 after add(-5), add(-5)" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Create_calculator_tests_Add_Should_return_-11_after_add(-5_5),_add(-5_5) - 2018.11.02 at 14h 45m 14s.xml">
+      <configuration name="Create calculator tests.Add.Should return -11 after add(-5.5), add(-5.5)" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="19121000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.792144" visible="true" weight="0.3266369" />
+      <window_info id="Structure" order="1" sideWeight="0.20785597" side_tool="true" visible="true" weight="0.3266369" />
+      <window_info id="Favorites" order="2" sideWeight="0.50153846" side_tool="true" weight="0.088541664" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.38134205" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.31260228" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/node_modules/04. Sub Sum/sub sum.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06. RGB to Hex/rgb to hex.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="53" column="2" lean-forward="true" selection-start-line="53" selection-start-column="2" selection-end-line="53" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05. Check for Symmetry/check for symmetry.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="54" column="11" lean-forward="true" selection-start-line="54" selection-start-column="11" selection-end-line="54" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04. Sub Sum/sub sum.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07. Add and Subtract/add and subtract.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="133" lean-forward="true" selection-start-line="12" selection-end-line="133" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
